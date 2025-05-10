@@ -10,7 +10,7 @@ echo \
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 sudo apt-get install git
-sudo apt-get makefile
+sudo apt-get make
 
 ssh-keygen
 cat /.ssh/id_rsa.pub
